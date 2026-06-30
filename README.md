@@ -28,7 +28,7 @@ Clara automatically evaluates the intent of your query and dynamically routes it
 - **Intelligent Query Routing:** Uses LangGraph agents to automatically decide if a query should search a local PDF, fetch an academic paper from arXiv, or pull general knowledge from Wikipedia.
 - **Local Document Chat:** Upload any PDF to chunk, embed, and index the document using FAISS for highly accurate semantic search.
 - **Advanced RAG Pipeline:** Ensures the LLM only answers based on the retrieved context.
-- **Interactive UI:** A clean, responsive chat and upload interface built with Streamlit.
+- **Interactive UI:** A clean, responsive chat and upload interface built with Streamlit....
 
 ---
 
