@@ -1,4 +1,4 @@
-<div align="center">
+6<div align="center">
 
 # 🧠 Clara: Your Personal AI Research Assistant
 
@@ -59,3 +59,30 @@ Follow these steps to set up Clara on your local machine.
 
 ### Prerequisites
 Make sure you have Python installed (3.9 or higher is recommended) and Git.
+
+## ✨ README Improvement Notes
+
+### 📌 Formatting Enhancements Needed
+- Improve heading hierarchy for better readability
+- Ensure consistent spacing between sections
+- Use proper Markdown formatting for code blocks and lists
+- Align all installation and usage steps properly
+
+### 🚀 Suggested Structure Upgrade
+- Introduction
+- Features
+- Tech Stack
+- Installation
+- Usage
+- Project Structure
+- Contribution Guidelines
+- License
+
+### 🛠️ Documentation Improvements
+- Add badges (optional): build, license, contributors
+- Add screenshots for better UI understanding
+- Standardize code blocks for commands
+
+### 🎯 Goal
+Improve onboarding experience for new contributors and users by making README more structured, readable, and professional.
+
